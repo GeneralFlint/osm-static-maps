@@ -2,16 +2,16 @@
   "name": "osm-static-maps",
   "version": "3.10.3",
   "description": "Create a static image of a map with the features you want",
-  "author": "Viacheslav Avdieiev",
+  "author": "Viacheslav A.",
   "contributors": [
     {
-      "name": "Viacheslav Avdieiev"
+      "name": "Viacheslav A."
     }
   ],
   "license": "GPLv2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/v-avdieiev/osm-static-maps.git"
+    "url": "https://github.com/GeneralFlint/osm-static-maps.git"
   },
   "dependencies": {
     "chrome-aws-lambda": "^5.5.0",
