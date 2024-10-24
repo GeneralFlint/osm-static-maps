@@ -2,11 +2,11 @@
 
 Openstreetmap static maps is a nodejs lib, CLI and server open source inspired on google static map service
 
-Here you have a [dynamic version](https://v-avdieiev.bcns.ai/osm-mariupol) of the demo, for testing purposes.
+Here you have a [dynamic version](https://github.com/GeneralFlint/osm-static-maps) of the demo, for testing purposes.
 
 ## Connection with a developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://telegram.me/developer_support_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/PR0DEV)
 
 ## How to use
 
@@ -51,7 +51,7 @@ osmsm serve
 
 Or you can use docker-compose
 ```bash
-git clone git@github.com:v-avdieiev/osm-static-maps.git
+git clone git@github.com:GeneralFlint/osm-static-maps.git
 cd osm-static-maps
 docker-compose up
 ```
