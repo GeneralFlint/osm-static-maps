@@ -40,7 +40,7 @@
     "osmsm": "./src/cli.js"
   },
   "devDependencies": {
-    "nodemon": "3.0.1",
+    "nodemon": "3.1.7",
     "puppeteer": "^22.2.0"
   }
 }
